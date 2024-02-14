@@ -1,0 +1,11 @@
+{
+    "comment (comment)": "Achievement Registry. Where achievements live.",
+    "registry": {
+        "01": {"name": "The whole deck!", "explainer": "Have more than 7 cards in your inventory", "charges": 40},
+        "02": {"name": "welcome to 3.0", "explainer": "Run the /fun news command in Coconutbot 3.0", "charges": 5},
+        "03": {"name": "oh! that's a squirrel right there!", "explainer": "Experience the drink", "charges": 5},
+        "04": {"name": "Wake up, get up, get out there!", "explainer": "(Why does nobody want change?) Suggest a poll!", "charges": 10},
+        "05": {"name": "Held together by duct-tape!", "explainer": "Cause an exception!", "charges": 20},
+        "06": {"name": "L", "explainer": "Don't get any bitches", "charges": 1}
+    }
+}

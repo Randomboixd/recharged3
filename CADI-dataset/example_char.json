@@ -1,0 +1,13 @@
+{
+    "dataset-type": "char",
+    "note (comment)": "This is an example dataset. Its up to you to add the characters with their images.",
+    "char": [
+
+    ],
+    "examples (comment, put your creations into the char key)": [
+        {
+            "name": ":flushed:",
+            "img": "Point this to an image url!"
+        }
+    ]
+}

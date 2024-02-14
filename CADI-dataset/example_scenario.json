@@ -1,0 +1,9 @@
+{
+    "dataset-type": "scenario",
+    "scenarios": [],
+    "example scenario": {
+        "chars": 1,
+        "comment (comment)": "chars can be between 1 and 3 you can use {char1} {char2} {char3} to place in character names.",
+        "img": "point this to a url."
+    }
+}

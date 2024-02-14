@@ -1,0 +1,6 @@
+py-cord
+requests
+cryptography
+python_dotenv
+pillow
+icecream

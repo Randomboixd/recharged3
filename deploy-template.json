@@ -1,0 +1,25 @@
+{
+    "instance-owner": "Your username here",
+    "owner-id": 0, 
+    "prod": true,
+    "version": "3.0",
+    "review-channel-id": 0,
+    "poll-channel-id": 0,
+    "admins": [],
+    "troubleshoot-payload": [
+        
+    ],
+    "troubleshoot-payload-examples": [
+        {
+            "type": "gitea",
+            "servicetoken": "fromenvironment;giteatoken",
+            "push": "url to your gitea api, also include repo and owner.",
+            "enabled": true
+        },
+        {
+            "type": "webhook",
+            "servicetoken": "fromenvironment;webhookurl",
+            "enabled": false
+        }
+    ]
+}
